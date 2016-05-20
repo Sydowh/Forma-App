@@ -18,4 +18,3 @@ C:\Users\Sydowh\Desktop\Prépa BTS\E4\FORMA\FORMA\obj\Debug\FORMA.Form_Mod_Forma
 C:\Users\Sydowh\Desktop\Prépa BTS\E4\FORMA\FORMA\obj\Debug\FORMA.Form_Suppr_Formation.resources
 C:\Users\Sydowh\Desktop\Prépa BTS\E4\FORMA\FORMA\obj\Debug\FORMA.PanelUtilisateur.resources
 C:\Users\Sydowh\Desktop\Prépa BTS\E4\FORMA\FORMA\obj\Debug\FORMA.Form_Suppr_Utilisateur.resources
-C:\Users\Sydowh\Desktop\Prépa BTS\E4\FORMA\FORMA\obj\Debug\FORMA.Form_Ajout_Utilisateur.resources

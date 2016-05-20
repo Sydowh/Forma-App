@@ -70,7 +70,6 @@
             this.Name = "Form_Ajout_Domaine";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ajout de domaine";
-            this.Load += new System.EventHandler(this.Form_Ajout_Domaine_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
